@@ -1,18 +1,16 @@
-# Burger 
+# Burger Town Party
 
 ## Overview
 
 Create and eat burgers! Satisfy your hunger by devouring hamburgers and creating your own scrumptious meals!
 
-#### Bamazon Customer
-
 **Purpose:**
 
-Allows the user to purchase items stored in the MySQL table. It calculates the total cost of the order based on the quantity purchased from the store. The inventory will then be depleted.
+Create an application to allow users to add burgers to a list and devour them.
 
 **Usage:**
 
-Navigate to the root folder of the applicaiton and run 'node server.js'. This will start the server which will then allow you to use a browser and go to the website. Or you can use the link below to access the application on Heroku.
+When on the home page, enter a hamburger name and click the 'Add Burger' button. It will appear in the list of burgers waiting to be eaten. Click the 'Eat this burger' button to move it over to the list of burgers waiting to be eaten.
 
 #### External Links
 
